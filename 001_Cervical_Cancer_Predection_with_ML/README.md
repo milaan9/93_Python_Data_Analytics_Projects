@@ -12,7 +12,7 @@ In this project, built and trained an XG-Boost classifier to predict whether a p
 -95.348 % (Test Dataset)
 
 <p align="center">  
- <img src="https://miro.medium.com/max/3164/1*GRdoM-q5Sc0l58EBw9qQcA.png" width="300"/>
+ <img src="https://miro.medium.com/max/3164/1*GRdoM-q5Sc0l58EBw9qQcA.png" width="700"/>
 </p>                                                             
 
 ---
