@@ -33,7 +33,7 @@ This repository contains all the data analytics projects that I've worked on pyt
 
 
 These are **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/91_Python_Mini_Projects/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
-020_Road_Detection
+
 ---
 
 ## Frequently asked questions ❔
