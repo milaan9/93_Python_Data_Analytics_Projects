@@ -24,7 +24,7 @@ This repository contains all the data analytics projects that I've worked on pyt
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-|	01	| **[001_Convert_IPython_to_PDF](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/001_Convert_IPython_to_PDF)** | 
+|	01	| **[001_Cervical_Cancer_Predection_with_ML](https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/001_Cervical_Cancer_Predection_with_ML)** | 
 |	02	| **[002_Create_Digital_Clock_and_Stopwatch](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/002_Create_Digital_Clock)** | 
 |	03	| **[003_Convert_.py_to_.exe](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/003_Convert_.py_to_.exe)** | 
 |	04	| **[004_Find_IP_Address](https://github.com/milaan9/91_Python_Mini_Projects/tree/main/004_Find_IP_Address)** | 
