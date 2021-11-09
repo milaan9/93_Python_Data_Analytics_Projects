@@ -32,7 +32,7 @@ This repository contains all the data analytics projects that I've worked on pyt
 |	06	| **[006_Eng_to_French_Translation_with_LSTM_NN](https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/006_Eng_to_French_Translation_with_LSTM_NN)** | 
 
 
-These are **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/91_Python_Mini_Projects/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
+These are **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/93_Python_Data_Analytics_Projects/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
 
 ---
 
@@ -42,13 +42,13 @@ These are **read-only** versions. However you can **`Run ▶`**  all the codes *
 
 You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=%E2%B5%96 Fork &message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
-Go [**`here`**](https://github.com/milaan9/91_Python_Mini_Projects) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
+Go [**`here`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
 ---
 
 ### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
 
-1. Go [**`here`**](https://github.com/milaan9/91_Python_Mini_Projects) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/91_Python_Mini_Projects/archive/refs/heads/main.zip).
+1. Go [**`here`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects/archive/refs/heads/main.zip).
 
     ![Download ZIP](img/dnld_rep.png)
 
@@ -68,11 +68,11 @@ If you have git and you know how to use it, you can also clone the repository in
 
 I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
 
-See [github's contributors page](https://github.com/milaan9/91_Python_Mini_Projects/graphs/contributors) for details.
+See [github's contributors page](https://github.com/milaan9/93_Python_Data_Analytics_Projects/graphs/contributors) for details.
 
-If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/91_Python_Mini_Projects/issues/new) <img alt="PNG" width="30px"  src="https://user-images.githubusercontent.com/48193918/124397909-86858c80-dd30-11eb-803c-9650d9c4a927.png" /></h3> and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
+If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/93_Python_Data_Analytics_Projects/issues/new) <img alt="PNG" width="30px"  src="https://user-images.githubusercontent.com/48193918/124397909-86858c80-dd30-11eb-803c-9650d9c4a927.png" /></h3> and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
 
-If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/91_Python_Mini_Projects).
+If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/93_Python_Data_Analytics_Projects).
 
 ---
 
