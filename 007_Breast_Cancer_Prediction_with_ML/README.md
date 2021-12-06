@@ -30,7 +30,7 @@ In this notebook, we'll get familiar with the data using data exploration and vi
 **Aim: Find the most predictive features of the data and filter it so it will enhance the predictive power of the analytics model.**
 We'll use feature selection to reduce high-dimension data, feature extraction and transformation for dimensionality reduction. This is essential in preparing the data before predictive models are developed.
 
-### Part_4 Predictive model using Support Vector Machine (svm)
+### Part_4: Predictive model using Support Vector Machine (svm)
 **Aim: Construct predictive models to predict the diagnosis of a breast tumor.** 
 We'll construct a predictive model using SVM machine learning algorithm to predict the diagnosis of a breast tumor. The diagnosis of a breast tumor is a binary variable (benign or malignant). we'll also evaluate the model using confusion matrix the receiver operating curves (ROC), which are essential in assessing and interpreting the fitted model.
 
