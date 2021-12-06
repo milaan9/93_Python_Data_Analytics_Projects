@@ -30,6 +30,7 @@ This repository contains all the data analytics projects that I've worked on in 
 |	04	| **[004_Resume_Selection_with_ML](https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/004_Resume_Selection_with_ML)** | 
 |	05	| **[005_Stock_News_Prediction_using_NLP_Tweets_Sentiment_Analysis](https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/005_Stock_News_Prediction_using_NLP_Tweets_Sentiment_Analysis)** | 
 |	06	| **[006_Eng_to_French_Translation_with_LSTM_NN](https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/006_Eng_to_French_Translation_with_LSTM_NN)** | 
+|	07	| **[007_Breast_Cancer_Prediction_with_ML](https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/007_Breast_Cancer_Prediction_with_ML)** | 
 
 
 These are **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/93_Python_Data_Analytics_Projects/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
