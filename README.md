@@ -48,7 +48,7 @@ Go [**`here`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects) if
 
 ---
 
-### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
+### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
 1. Go [**`here`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects/archive/refs/heads/main.zip).
 
